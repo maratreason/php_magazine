@@ -1,0 +1,15 @@
+.add-to-cart {
+    border: 1px solid #384aeb !important;
+    border-radius: 30px !important;
+    color: #222 !important;
+    font-weight: 500 !important;
+    padding: 12px 50px !important;
+    background: #384aeb !important;
+    color: #fff !important;
+    transition: all .4s ease !important;
+    /* color: #fff !important; */
+}
+
+/* .add-to-cart:hover {
+    color: #384aeb !important;
+} */
